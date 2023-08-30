@@ -1,0 +1,201 @@
+2023-08-20 22:01:21,679 - ALL_ASSURE - ERROR - Rate card not found for policy_type: 2a and tier: Tier-1
+2023-08-20 22:03:20,734 - ALL_ASSURE - ERROR - Rate card not found for policy_type: 2a and tier: Tier-1
+2023-08-20 23:06:36,567 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': 1, 'policy_type': '2a', 'sum_assured': 500000, 'tier': 'tier-1', 'tenure': 2, 'member_data': [{'name': 'Sid1', 'dob': '05-06-1992', 'premium_rate': 12055.0, 'floater_discount': 0, 'discounted_rate': 12055.0}, {'name': 'Sid2', 'dob': '06-05-1993', 'premium_rate': 12055.0, 'floater_discount': 0.5, 'discounted_rate': 6027.5}]}
+2023-08-20 23:13:13,045 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': 1, 'policy_type': '2a', 'sum_assured': 500000, 'tier': 'tier-1', 'tenure': 2, 'member_data': [{'name': 'Sid1', 'dob': '05-06-1992', 'premium_rate': 12055.0, 'floater_discount': 0, 'discounted_rate': 12055.0}, {'name': 'Sid2', 'dob': '06-05-1993', 'premium_rate': 12055.0, 'floater_discount': 0.5, 'discounted_rate': 6027.5}]}
+2023-08-21 06:01:15,696 - ALL_ASSURE - ERROR - Profile not found for user_id: 64d68390c91995a5e7bd84ce
+2023-08-26 01:47:55,059 - ALL_ASSURE - ERROR - User with ID None not found.
+2023-08-26 01:48:29,751 - ALL_ASSURE - ERROR - User with ID None not found.
+2023-08-26 01:50:21,021 - ALL_ASSURE - ERROR - User with ID None not found.
+2023-08-26 01:51:21,049 - ALL_ASSURE - INFO - Profile updated for user with ID 64d68390c91995a5e7bd84ce
+2023-08-26 01:52:44,536 - ALL_ASSURE - INFO - Profile updated for user with ID 64d68390c91995a5e7bd84ce
+2023-08-26 01:53:28,090 - ALL_ASSURE - INFO - Profile updated for user with ID 64d68390c91995a5e7bd84ce
+2023-08-26 01:54:10,942 - ALL_ASSURE - INFO - Profile updated for user with ID 64d68390c91995a5e7bd84ce
+2023-08-26 01:57:28,305 - ALL_ASSURE - INFO - Profile updated for user with ID 64d68390c91995a5e7bd84ce
+2023-08-26 01:58:08,305 - ALL_ASSURE - INFO - Profile updated for user with ID 64d68390c91995a5e7bd84ce
+2023-08-26 21:29:16,765 - ALL_ASSURE - INFO - Profile updated for user with ID 64d68390c91995a5e7bd84ce
+2023-08-26 21:31:04,490 - ALL_ASSURE - ERROR - Profile not found for user_id: 74d68390c91995a5e7bd84ce
+2023-08-26 21:31:12,768 - ALL_ASSURE - ERROR - Profile not found for user_id: 74d68390c91995a5e7bd84ce
+2023-08-26 21:31:13,088 - ALL_ASSURE - ERROR - Profile not found for user_id: 74d68390c91995a5e7bd84ce
+2023-08-26 21:31:49,977 - ALL_ASSURE - ERROR - User with ID 74d68390c91995a5e7bd84ce not found.
+2023-08-26 21:32:44,269 - ALL_ASSURE - ERROR - User with ID 74d68390c91995a5e7bd84ce not found.
+2023-08-27 01:26:30,176 - ALL_ASSURE - ERROR - User with ID 74d68390c91995a5e7bd84ce not found.
+2023-08-27 21:04:53,779 - ALL_ASSURE - INFO - Got request to change password for user_id: 64d68390c91995a5e7bd84ce
+2023-08-27 21:04:54,282 - ALL_ASSURE - INFO - Password changed successfully for user with ID 64d68390c91995a5e7bd84ce
+2023-08-27 21:06:01,328 - ALL_ASSURE - INFO - Got request to change password for user_id: 64d68390c91995a5e7bd84ce
+2023-08-27 21:06:01,571 - ALL_ASSURE - ERROR - Incorrect current password for user_id: 64d68390c91995a5e7bd84ce
+2023-08-27 21:06:29,128 - ALL_ASSURE - INFO - Got request to change password for user_id: 64d68390c91995a5e7bd84ce
+2023-08-27 21:06:29,617 - ALL_ASSURE - INFO - Password changed successfully for user with ID 64d68390c91995a5e7bd84ce
+2023-08-27 21:08:57,519 - ALL_ASSURE - INFO - Got request to change password for user_id: 64d68390c91995a5e7bd84ce
+2023-08-27 21:08:58,004 - ALL_ASSURE - INFO - Password changed successfully for user with ID 64d68390c91995a5e7bd84ce
+2023-08-28 13:53:23,296 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhantgpt@gmail.com, phone: 7895134579
+2023-08-28 13:53:23,640 - ALL_ASSURE - ERROR - Exception occurred while getting response for data: {'name': 'Siddhant', 'email': 'siddhantgpt@gmail.com', 'phone': '7895134579', 'password': 'Test@123'}, error: 'InsertOneResult' object has no attribute 'matched_count'
+2023-08-28 14:00:04,177 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhantgpt@gmail.com, phone: 7895134579
+2023-08-28 14:00:20,687 - ALL_ASSURE - ERROR - Profile with email: siddhantgpt@gmail.com or phone: 7895134579 already registered
+2023-08-28 14:01:43,067 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhantgpt@gmail.co.in, phone: 7895134578
+2023-08-28 14:02:01,113 - ALL_ASSURE - ERROR - Exception occurred while getting response for data: {'name': 'Siddhant', 'email': 'siddhantgpt@gmail.co.in', 'phone': '7895134578', 'password': 'Test@123'}, error: 'InsertOneResult' object has no attribute 'matched_count'
+2023-08-28 14:08:11,745 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhantgpt@gmail.co.in, phone: 7895134578
+2023-08-28 14:08:12,046 - ALL_ASSURE - INFO - Profile saved successfully for user: {'name': 'Siddhant', 'email': 'siddhantgpt@gmail.co.in', 'phone': '7895134578', 'password': b'$2b$12$2lTfsUtYeoLDjezu4IQ9GuRD/OvMDxpuSifmGfaTO0pYqB3Uvza.C', '_id': ObjectId('64ec5cf43aa7d41963b3e5f7')}
+2023-08-28 14:24:07,693 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhantgpt@gmail.co.in, phone: 7895134578
+2023-08-28 14:24:07,697 - ALL_ASSURE - ERROR - Profile with email: siddhantgpt@gmail.co.in or phone: 7895134578 already registered
+2023-08-28 14:25:11,721 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhantgpt@gmail.co.in, phone: 7895134578
+2023-08-28 14:25:11,723 - ALL_ASSURE - ERROR - Profile with email: siddhantgpt@gmail.co.in or phone: 7895134578 already registered
+2023-08-28 14:26:35,364 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhantgpt@gmail.co.in, phone: 7895134578
+2023-08-28 14:26:35,366 - ALL_ASSURE - ERROR - Profile with email: siddhantgpt@gmail.co.in or phone: 7895134578 already registered
+2023-08-28 17:55:12,074 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@gmail.com
+2023-08-28 17:55:12,085 - ALL_ASSURE - ERROR - Invalid credentials while login: siddhant@gmail.com, Test@123
+2023-08-28 17:57:25,915 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@gmail.com
+2023-08-28 17:57:25,941 - ALL_ASSURE - ERROR - Invalid credentials while login: siddhant@gmail.com, Test@123
+2023-08-28 17:57:41,325 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@gmail.co.in
+2023-08-28 17:57:41,625 - ALL_ASSURE - ERROR - Invalid credentials while login: siddhant@gmail.co.in, Test@123
+2023-08-28 17:57:50,576 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@gmail.co.in
+2023-08-28 17:57:50,908 - ALL_ASSURE - ERROR - Invalid credentials while login: siddhant@gmail.co.in, Test@123
+2023-08-28 17:58:46,367 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@gmail.co.in
+2023-08-28 18:00:15,970 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhant@dev.com, phone: 7895134579
+2023-08-28 18:00:16,003 - ALL_ASSURE - ERROR - Profile with email: siddhant@dev.com or phone: 7895134579 already registered
+2023-08-28 18:00:21,608 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhant@dev.com, phone: 7895134570
+2023-08-28 18:00:21,613 - ALL_ASSURE - ERROR - Profile with email: siddhant@dev.com or phone: 7895134570 already registered
+2023-08-28 18:00:43,656 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhant@dev.com, phone: 7895134578
+2023-08-28 18:00:43,661 - ALL_ASSURE - ERROR - Profile with email: siddhant@dev.com or phone: 7895134578 already registered
+2023-08-28 18:01:56,814 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant, email: siddhant@dev.com, phone: 7895134577
+2023-08-28 18:01:56,815 - ALL_ASSURE - ERROR - Invalid credentials while login: siddhant@gmail.co.in, Test@123
+2023-08-28 18:01:57,621 - ALL_ASSURE - INFO - Profile saved successfully for user: {'name': 'Siddhant', 'email': 'siddhant@dev.com', 'phone': '7895134577', 'password': b'$2b$12$qggSYhw6J7L1TIGaXcBvje3zoXSEaRNi0oW653dFPng43QbJIJaF.', '_id': ObjectId('64ec93bd434564b64b9ce40a')}
+2023-08-28 18:02:28,336 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-28 18:02:35,705 - ALL_ASSURE - ERROR - Exception occurred while getting response for data: {'email': 'siddhant@dev.com', 'password': 'Test@123'}, error: Object of type ObjectId is not JSON serializable
+2023-08-28 18:02:45,459 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-28 18:03:24,975 - ALL_ASSURE - ERROR - Exception occurred while getting response for data: {'email': 'siddhant@dev.com', 'password': 'Test@123'}, error: Object of type ObjectId is not JSON serializable
+2023-08-28 18:07:36,559 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-28 18:07:58,882 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-28 20:18:38,741 - ALL_ASSURE - INFO - Got request to register user with name: Sidd, email: siddhant@dev.co.in, phone: 1234567890
+2023-08-28 20:18:39,093 - ALL_ASSURE - INFO - Profile saved successfully for user: {'name': 'Sidd', 'email': 'siddhant@dev.co.in', 'phone': '1234567890', 'password': b'$2b$12$WQgljVSwvBwEW2cwz3ANL.WhBC2LymUhkex3wjzzOTqGRg0z/GR3q', '_id': ObjectId('64ecb3c751bada9c0ac3d703')}
+2023-08-29 01:59:19,155 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 02:12:48,192 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 02:12:58,795 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 02:13:08,973 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 02:18:32,776 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 02:18:53,646 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 02:21:09,773 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 02:41:27,877 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:02:54,244 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:03:45,507 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:04:41,838 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:08:43,175 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:13:29,703 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:16:12,640 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:16:30,268 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:16:36,883 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:17:14,606 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:31:33,694 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:31:58,606 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:32:48,422 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:33:07,727 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:33:21,633 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:33:30,559 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:33:59,700 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:34:47,913 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:36:25,137 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 03:36:49,617 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 08:30:36,252 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 08:31:18,553 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 08:32:05,642 - ALL_ASSURE - INFO - Got request to register user with name: sdada, email: siddhant@dev.com, phone: 1234567890
+2023-08-29 08:32:05,651 - ALL_ASSURE - ERROR - Profile with email: siddhant@dev.com or phone: 1234567890 already registered
+2023-08-29 08:32:20,830 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 15:08:09,803 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 18:39:54,109 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-29 18:40:24,284 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: 
+2023-08-29 18:40:24,304 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': '', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1993-02-17'}]}
+2023-08-29 18:41:04,795 - ALL_ASSURE - ERROR - Rate card not found for policy_type: ,0c and tier: 
+2023-08-29 18:41:04,795 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': ',0c', 'tier': '', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1993-02-17'}]}
+2023-08-29 18:42:01,324 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 18:42:01,326 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1995-07-12'}]}
+2023-08-29 18:42:27,913 - ALL_ASSURE - ERROR - Rate card not found for policy_type: ,0c and tier: tier-1
+2023-08-29 18:42:27,914 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': ',0c', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1995-07-12'}]}
+2023-08-29 18:42:39,528 - ALL_ASSURE - ERROR - Rate card not found for policy_type: ,0c and tier: tier-1
+2023-08-29 18:42:39,529 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': ',0c', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1995-07-12'}]}
+2023-08-29 18:42:41,058 - ALL_ASSURE - ERROR - Rate card not found for policy_type: ,0c and tier: tier-1
+2023-08-29 18:42:41,059 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': ',0c', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1995-07-12'}]}
+2023-08-29 18:42:55,363 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 18:42:55,364 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': ''}]}
+2023-08-29 18:44:29,548 - ALL_ASSURE - ERROR - Rate card not found for policy_type: ,0c and tier: tier-1
+2023-08-29 18:44:29,549 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': ',0c', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2001-10-17'}]}
+2023-08-29 18:45:07,017 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 18:45:07,018 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1999-06-08'}]}
+2023-08-29 18:46:00,415 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '1a', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1999-06-08'}]}
+2023-08-29 18:48:01,428 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '1a', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1999-06-08'}]}
+2023-08-29 18:48:36,574 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '1a', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1999-06-08'}]}
+2023-08-29 18:49:28,163 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '1a', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1999-06-08'}]} error: time data '1999-06-08' does not match format '%d-%m-%Y'
+2023-08-29 21:07:41,827 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 21:07:53,141 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2004-01-27'}]} error: 'NoneType' object is not subscriptable
+2023-08-29 21:11:46,492 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 21:11:46,493 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2000-10-10'}]} error: 'NoneType' object is not subscriptable
+2023-08-29 21:12:32,155 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '1a', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2000-10-10', 'premium_rate': 4567.0, 'floater_discount': 0, 'discounted_rate': 4567.0}, {'name': 'Sid2', 'dob': '2023-08-17'}]} error: None
+2023-08-29 21:12:45,375 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '1a', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2000-10-10', 'premium_rate': 4567.0, 'floater_discount': 0, 'discounted_rate': 4567.0}, {'name': 'Sid2', 'dob': '2023-08-17'}]} error: None
+2023-08-29 21:13:50,223 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '1a', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2000-10-10', 'premium_rate': 4567.0, 'floater_discount': 0, 'discounted_rate': 4567.0}, {'name': 'Sid2', 'dob': '2023-08-17'}]} error: None
+2023-08-29 22:13:04,185 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 22:13:04,233 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2000-02-02'}]} error: 'NoneType' object is not subscriptable
+2023-08-29 22:15:06,149 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 22:15:06,150 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2000-02-03'}]} error: 'NoneType' object is not subscriptable
+2023-08-29 22:16:25,065 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 22:16:25,066 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'dasda', 'dob': '2004-02-04'}]} error: 'NoneType' object is not subscriptable
+2023-08-29 22:18:51,355 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-29 22:18:51,357 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2001-06-06'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 00:25:46,202 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 00:25:46,202 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1993-02-02'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 00:34:29,577 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 00:34:29,584 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1997-03-06'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 00:36:30,666 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 00:36:30,667 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1994-07-07'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 00:38:03,828 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 00:38:03,828 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1992-06-11'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 00:40:22,598 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 00:40:22,598 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1986-02-05'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 00:44:47,610 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 00:44:47,610 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '1996-01-31'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 01:37:17,897 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 01:37:17,898 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': '1', 'member_data': [{'name': 'Sid', 'dob': '1992-02-06'}, {'name': 'Siddhant Gupta', 'dob': '1969-06-06'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 02:08:00,483 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 02:08:00,487 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ec93bd434564b64b9ce40a', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': '12', 'member_data': [{'name': 'Sid', 'dob': '1994-06-14'}, {'name': 'Siddhant Gupta', 'dob': '1977-05-03'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 04:38:18,387 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant Gupta, email: siddhant123@gmail.com, phone: 1234567890
+2023-08-30 04:38:18,415 - ALL_ASSURE - ERROR - Profile with email: siddhant123@gmail.com or phone: 1234567890 already registered
+2023-08-30 04:38:25,604 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant Gupta, email: siddhant123@gmail.com, phone: 1234567891
+2023-08-30 04:38:26,480 - ALL_ASSURE - INFO - Profile saved successfully for user: {'name': 'Siddhant Gupta', 'email': 'siddhant123@gmail.com', 'phone': '1234567891', 'password': b'$2b$12$TP8pGKmjCYA6BJwIyd6aM.sTDSJ/1PZyZuzG71ucqf4CWqrj6qpJ6', '_id': ObjectId('64ee7a6abce9b67aac9da37d')}
+2023-08-30 04:39:45,748 - ALL_ASSURE - INFO - Got request to register user with name: Siddhant Gupta, email: siddhant1234@gmail.com, phone: 9997777102
+2023-08-30 04:39:46,022 - ALL_ASSURE - INFO - Profile saved successfully for user: {'name': 'Siddhant Gupta', 'email': 'siddhant1234@gmail.com', 'phone': '9997777102', 'password': b'$2b$12$rY8Sl0D1NnWx5XqxjpCcouZUUFyVnY4369bAJZPsNCjis9nAXK59a', '_id': ObjectId('64ee7ababce9b67aac9da37e')}
+2023-08-30 04:40:02,752 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 04:40:28,676 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 04:40:28,717 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ee7ababce9b67aac9da37e', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sid', 'dob': '2001-06-06'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 04:43:58,947 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 04:43:58,948 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ee7ababce9b67aac9da37e', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': '3', 'member_data': [{'name': 'Sid1', 'dob': '1986-06-03'}, {'name': 'Siddhant Gupta', 'dob': '1978-05-09'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 05:29:10,139 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 05:29:10,151 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ee7ababce9b67aac9da37e', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Siddhant Gupta', 'dob': '2005-02-09'}, {'name': 'Siddhant 2', 'dob': '2001-01-02'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 05:34:53,122 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 05:34:53,122 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ee7ababce9b67aac9da37e', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 1000000, 'tenure': '4', 'member_data': [{'name': 'Siddhant', 'dob': '2006-02-02'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 05:35:41,123 - ALL_ASSURE - ERROR - Rate card not found for policy_type: 0a and tier: tier-1
+2023-08-30 05:35:41,124 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ee7ababce9b67aac9da37e', 'policy_type': '0a', 'tier': 'tier-1', 'sum_assured': 1000000, 'tenure': '4', 'member_data': [{'name': 'Siddhant', 'dob': '2004-03-04'}, {'name': 'Siddhant @2', 'dob': '1999-06-05'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 06:57:22,638 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 07:10:27,278 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-30 07:12:27,234 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 08:05:29,180 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-30 08:05:51,413 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 08:06:04,705 - ALL_ASSURE - INFO - Got request to update profile info for user_id: 74d68390c91995a5e7bd84ce
+2023-08-30 08:06:04,707 - ALL_ASSURE - ERROR - User with ID 74d68390c91995a5e7bd84ce not found.
+2023-08-30 08:06:34,200 - ALL_ASSURE - INFO - Got request to update profile info for user_id: 74d68390c91995a5e7bd84ce
+2023-08-30 08:06:34,201 - ALL_ASSURE - ERROR - User with ID 74d68390c91995a5e7bd84ce not found.
+2023-08-30 08:07:43,604 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-30 08:08:31,715 - ALL_ASSURE - INFO - Got request to update profile info for user_id: 64ec93bd434564b64b9ce40a
+2023-08-30 08:08:31,717 - ALL_ASSURE - INFO - Profile updated for user with ID 64ec93bd434564b64b9ce40a
+2023-08-30 08:09:40,711 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-30 08:09:40,712 - ALL_ASSURE - ERROR - Invalid credentials while login: siddhant@dev.com, Test@123
+2023-08-30 08:19:55,248 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 08:21:31,111 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 08:36:17,816 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 08:40:12,068 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 08:50:22,128 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 08:50:22,142 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ee7ababce9b67aac9da37e', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 500000, 'tenure': 1, 'member_data': [{'name': 'Sidda', 'dob': '2023-08-02'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 08:55:58,563 - ALL_ASSURE - ERROR - Rate card not found for policy_type:  and tier: tier-1
+2023-08-30 08:55:58,564 - ALL_ASSURE - ERROR - Exception while saving policy for data: {'user_id': '64ee7ababce9b67aac9da37e', 'policy_type': '', 'tier': 'tier-1', 'sum_assured': 700000, 'tenure': '4', 'member_data': [{'name': 'Sidda', 'dob': '1998-05-20'}]} error: 'NoneType' object is not subscriptable
+2023-08-30 09:10:48,543 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 09:14:47,389 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 09:31:19,887 - ALL_ASSURE - INFO - Got request to login user with email: siddhant@dev.com
+2023-08-30 09:31:19,890 - ALL_ASSURE - ERROR - Invalid credentials while login: siddhant@dev.com, Test@123
+2023-08-30 09:31:31,250 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
+2023-08-30 09:41:38,009 - ALL_ASSURE - INFO - Got request to login user with email: siddhant1234@gmail.com
